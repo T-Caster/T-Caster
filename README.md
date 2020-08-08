@@ -1,16 +1,22 @@
 ### Hi there 👋
 
-<!--
-**T-Caster/T-Caster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Firas Sharary, I'm a young developer that is aiming high, I'm obsessed with computers and I always want to learn more about them
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on and contributing to a FiveM server called [PassionRP][passion].
+- 🌱 I’m currently learning web development.
+- ⚡ Fun fact: If your program works from the first try, don't trust it, there is always something wrong 😁.
+
+---
+
+### 🌐 Social media
+[<img style="margin-top: 15px; display: block;" id="imagen" src="https://icon-icons.com/icons2/2248/PNG/32/steam_icon_135152.png" class="lazy" data-original="https://cdn.icon-icons.com/icons2/2248/PNG/512/steam_icon_135152.png">][steam]
+[<img src="https://img.icons8.com/android/24/000000/twitter.png"/>][twitter]
+[<img src="https://img.icons8.com/material-outlined/24/000000/instagram-new.png"/>][instagram]
+
+
+[passion]: https://passionrp.com/
+[steam]: http://steamcommunity.com/id/T-Caster
+[twitter]: https://twitter.com/T_Caster2502
+[instagram]: https://www.instagram.com/firassharary/
