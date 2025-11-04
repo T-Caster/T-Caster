@@ -52,7 +52,6 @@
 - **Cloud & DevOps:** Firebase on GCP, CI/CD with GitHub Actions, Dockerized services  
 - **Frontend:** React + TS, MUI, responsive/RTL & i18n, Leaflet maps  
 - **Backend:** Node/Express APIs, Firebase Functions, MongoDB, real-time updates with Socket.IO  
-- **Extras I play with for fun:** genetic algorithms, optimization, CVRP/DTSP, and other nerdy experiments 🤓
 
 ---
 
