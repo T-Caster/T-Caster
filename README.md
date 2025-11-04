@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Firas Sharary 👋</h1>
 
 <p align="center">
-  Full-Stack Developer (React/Node) • CS Student • Lecturer • 🇮🇱 Nazareth / Haifa
+  Full-Stack Developer (React/Node) • CS Student • Lecturer
 </p>
 
 <p align="center">
