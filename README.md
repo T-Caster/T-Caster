@@ -19,7 +19,7 @@
 
 - 🧑‍💻 I build real, production apps for real businesses (yes, including my family’s gas station ⛽).
 - 🧠 I love turning complex ideas into clean, shippable software — and teaching others to do the same.
-- 🗣️ Trilingual: Arabic (native, 🇵🇸 dialect), Hebrew, and English.
+- 🗣️ Trilingual: Arabic (native), Hebrew, and English.
 - 🎓 CS @ University of Haifa, and **Full-Stack Lecturer** at Nof Ha-Galil Technological College.
 
 ---
@@ -29,12 +29,6 @@
 - **StoreOps** — A production store-operations platform: shelf-life/expiry tracking, stock counts, shift tasks, offline-friendly UX.  
   Stack: React + **TypeScript**, MUI, Firebase (Auth/Firestore/Functions), Capacitor  
   🔗 Live: https://storeops.org
-
-- **House Auction (real-time)** — Property marketplace with live bidding, roles, Socket.IO rooms, and maps.  
-  Stack: React + TypeScript, Node/Express, Socket.IO, MongoDB
-
-- **Teaching** — React UI + ExpressJS backend courses; mentoring students from “hello world” to deployed MVPs.
-
 ---
 
 ### Toolbox
@@ -65,16 +59,12 @@
 ### A little personal
 
 I like building tools my community actually uses — things that save time, reduce waste, and make operations smoother.  
-I’m also a teacher at heart; watching students deploy their first app never gets old.  
-When I switch to Arabic, expect the Palestinian dialect to sneak in 🙂.
-
+Technology and automation belong in every profession. Ignore them and you fall behind—today, tech isn’t a luxury; it’s essential.
 ---
 
 ### Let’s connect
 
 - 💼 LinkedIn: <a href="https://www.linkedin.com/in/firas-sharary-0b8ab6268/">firas-sharary</a>  
 - 📷 Instagram: <a href="https://instagram.com/firassharary">@firassharary</a>  
-- 📫 (Optional) Email: `firassharary3@gmail.com`
-
 ---
 
