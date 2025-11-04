@@ -61,6 +61,7 @@
 I like building tools my community actually uses — things that save time, reduce waste, and make operations smoother.  
 
 Technology and automation belong in every profession. Ignore them and you fall behind—today, tech isn’t a luxury; it’s essential.
+
 ---
 
 ### Let’s connect
